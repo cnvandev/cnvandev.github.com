@@ -1,0 +1,266 @@
+{
+	"person": {
+        "name": "Chris Vandevelde",
+        "email": "chris.vandevelde@uwaterloo.ca",
+        "phone": "226-606-1829",
+        "address": {
+            "mailing": {
+                "number": "2964",
+                "street": "Keynes Crescent",
+                "city": "Mississauga",
+                "province": "Ontario",
+                "country": "Canada",
+                "postal-code": "L5N3A1"
+            }
+        },
+        "links": {
+            "github": "https://github.com/cnvandev",
+            "coderwall": "http://coderwall.com/cnvandev",
+            "twitter": "https://twitter.com/cnvandev",
+            "last.fm": "http://www.last.fm/user/cnvandev",
+            "linkedin": "http://www.linkedin.com/profile/view?id=43664443",
+            "tumblr": "https://blg.chrs.vndvl.de/"
+        },
+        "qualifications": [
+            "Moderate programming experience in Python, Javascript, Java, HTML, CSS, and SQL.",
+            "Strong interest in Machine Intelligence and Human-Computer Interaction.",
+            "Previous programming experience in Node.js, Perl, PHP, C++, bash scripting and ColdFusion.",
+            "Experience with Adobe Photoshop, Inkscape, Microsoft Office, and in Mac, Linux, and Windows environments.",
+            "Bilingual in English and French."
+        ],
+    },
+    "experience": [
+        {
+            "company": {
+                "name": "TrendRadius",
+                "url": "http://www.trendradius.com",
+                "location": "Kitchener, Ontario"
+            },
+            "position": "Software & Machine Learning Developer",
+            "duration": [
+                {
+                    "from": "July 2014",
+                }
+            ],
+            "type": "Full-Time",
+            "summary": [
+                "Development on a web-based application using Node.js, Express, and MongoD, a front-end Javascript application based on Backbone.js and Twitter Bootstrap, and a backend processing application written in Java.",
+                "Created sentiment analysis tool in Java using OpenNLP, WordNet, and SentiWordNet to aggregate customer feedback.",
+                "Led efforts to ensure Continuous Integration and Deployment across products, set up Jenkins CI server and testing using Mocha.js and JUnit, consolidated Javascript build process using NPM."
+            ]
+        },
+        {
+            "company": {
+                "name": "Canopy Labs",
+                "url": "http://www.canopylabs.com",
+                "location": "Toronto, Ontario"
+            },
+            "position": "Data-Mining & Machine Learning Developer",
+            "duration": [
+                {
+                    "from": "April 2013",
+                    "to": "August 2013"
+                }
+            ],
+            "type": "Full-Time",
+            "summary": [
+                "Fixed bugs and added features to the full stack of the Canopy Labs customer analytics platform throughout a series of inter-related applications.",
+                "Worked in a variety of environments (both new and familiar) including Python, PHP, C++, JavaScript, HTML5/CSS, R, shell scripting on both Mac and Linux operating systems.",
+                "Worked with a variety of software development tools including Git, FogBugz, JIRA, Scons, and Selenium."
+            ]
+        },
+        {
+            "company": {
+                "name": "Square",
+                "url": "http://www.squareup.com",
+                "location": "San Francisco, California"
+            },
+            "position": "Android Developer",
+            "duration": [
+                {
+                    "from": "January 2012",
+                    "to": "April 2012"
+                },
+                {
+                    "from": "September 2012",
+                    "to": "December 2012"
+                }
+            ],
+            "type": "Full-Time",
+            "summary": [
+                "Helped develop and build features, and identify and fix bugs across both Square's Wallet and Register Android applications.",
+                "Coded across the entirety of the application, from layout files and UI to helper libraries to backend logic, home-screen app widgets and more.",
+                "Contributed to maintaining software quality via tests using Android testing frameworks Robolectric and Robotium.",
+                "Worked primarily on OS X using IntelliJ IDEA, along with git and both ant and maven for building."
+            ]
+        },
+        {
+            "company": {
+                "name": "Upverter",
+                "url": "http://www.upverter.com/",
+                "location": "Toronto, Ontario"
+            },
+            "position": "Blacksmith/Mad Scientist",
+            "duration": [
+                {
+                    "from": "May 2011",
+                    "to": "August 2011"
+                },
+            ],
+            "type": "Full-Time",
+            "summary": [
+                "Contributed features and bug-fixes to the development of an HTML5 Canvas and Python web application for Electronic Circuit Design, as well as a community-centered project showcase and parts library.",
+                "Learned multiple new languages and APIs over four months including Python, Protocol Buffers, HTML5 Canvas and Google Closure.",
+                "Developed a robust Node.js-based standalone script that used the existing Javascript & HTML5 Canvas rendering process, and batch export images to PNG.",
+                "Also contributed to various side projects including Arduino and Android connections over USB, MIDI signal generation and Amazon EC2 setup."
+            ]
+        },
+        {
+            "company": {
+                "name": "h4cker Factory",
+                "url": "http://www.h4ckerfactory.com/",
+                "location": "Toronto, Ontario"
+            },
+            "position": "Developer",
+            "duration": [
+                {
+                    "from": "November 2010",
+                    "to": "June 2012"
+                },
+            ],
+            "type": "Part-Time",
+            "summary": [
+                "Developing &amp; designing an Android application for deployment of a project-management assessment survey with other Waterloo Engineering students as freelance developers for a company in Toronto.",
+                "Learned Java, the Android API, and XStream XML object conversion in a manner of weeks for the project.",
+                "Also created user interface &amp; look and feel for iPhone, Android and Blackberry versions of app."
+            ]
+        },
+        {
+            "company": {
+                "name": "Ontario Institute for Cancer Research",
+                "url": "http://www.oicr.on.ca/",
+                "location": "Toronto, Ontario"
+            },
+            "position": "Genome Software Developer",
+            "duration": [
+                {
+                    "from": "May 2010",
+                    "to": "December 2010"
+                },
+            ],
+            "type": "Full-Time",
+            "summary": [
+                "Bug-fixing, feature addition and updates in code & architecture on GBrowse, an open-source web application built in Perl, HTML, CSS &amp; Javascript and a variety of SQL-compliant databases.",
+                "Built and tested from scratch a custom data-sharing system onto the existing application.",
+                "Worked in an entirely Linux-based development environment using Subversion.",
+                "Additionally developed a layout algorithm for sorting glyphs onto the theoretically smallest space for the project."
+            ]
+        },
+    ],
+    "education": [
+        {
+            "school": {
+                "name": "University of Waterloo",
+                "location": "Waterloo, Ontario",
+                "certificates": [
+                    {
+                        "name": "Bachelor of Applied Sciences in Systems Design Engineering",
+                        "awarded": "June 2014"
+                    }
+                ]
+                "duration": {
+                    "from": "September 2008",
+                    "to": "May 2014"
+                }
+            },
+            "courses": [
+                {
+                    "name": "Pattern Recognition",
+                    "description": "Methods for classifying and intepreting measured data in groups."
+                },
+                {
+                    "name": "Machine Intelligence",
+                    "description": "Intelligent systems, artificial intelligence techniques."
+                },
+                {
+                    "name": "Simulating Neurobiological Systems",
+                    "description": "Neural computation, modelling techniques."
+                },
+                {
+                    "name": "Biomedical Measurement & Signal Processing",
+                    "description": "EMG, EKG, EEG signals."
+                },
+                {
+                    "name": "Control Systems",
+                    "description": "Controls engineering, systems theory, PID contorl and action."
+                },
+                {
+                    "name": "Image Processing",
+                    "description": "Analyzing, adjusting, and filtering image data."
+                },
+                {
+                    "name": "Data Structures & Algorithms",
+                    "description": "Data structure and algorithm characteristics and use."
+                },
+                {
+                    "name": "Various core courses",
+                    "description": "Design process, creating unique solutions based on end-user needs, general systems."
+                }
+            ]
+        },
+        {
+            "school": {
+                "name": "Clarkson Secondary School",
+                "location": "Mississauga, Ontario",
+                "certificates": [
+                    {
+                        "name": "Ontario Secondary School Diploma",
+                        "awarded": "June 2007"
+                    },
+                    {
+                        "French Immersion Diploma",
+                        "awarded": "June 2007"
+                    }
+                ]
+                "duration": {
+                    "from": "September 2008",
+                    "to": "June 2014"
+                }
+            },
+        }
+    ],
+    
+    "awards": [
+        {
+            "name": "President's Scholarship",
+            "date": "September 2008",
+            "institution": {
+                "name": "University of Waterloo",
+                "location": "Waterloo, Ontario"
+            }
+        },
+        {
+            "name": "Black Charger Award",
+            "description": "800+ hours of extra-curricular involvement",
+            "date": "September 2007",
+            "institution": {
+                "name": "Clarkson Secondary School",
+                "location": "Mississauga, Ontario"
+            }
+        },
+        {
+            "name": "Six Principal's Reception awards",
+            "description": "awards for school commitment",
+            "date": "September 2006 - June 2008",
+            "institution": {
+                "name": "Clarkson Secondary School",
+                "location": "Mississauga, Ontario"
+            }
+        }
+    ],
+    "activities": [
+        "Drummer, Various jazz bands &amp; combos, Mississauga &amp; Waterloo, since January 2003",
+        "Interested in cognitive science, human-computer interaction, and artificial intelligence. Maintains an online notebook at http://blg.chrs.vndvl.de",
+        
+    ]
+}
